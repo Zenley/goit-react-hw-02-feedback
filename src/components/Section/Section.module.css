@@ -1,0 +1,13 @@
+.sectionTitle{
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+            -webkit-background-clip: text;
+            color: transparent;
+}
+
+.stats{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       flex-direction: column;
+}
